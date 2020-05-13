@@ -18,7 +18,6 @@ body {
 }
 
 .home1 {
-    
     display: none;
 }
 
@@ -147,19 +146,18 @@ i {
   font-size: 20px;
   font-weight: 600;
   line-height: 0.48;
-  letter-spacing: 0.4px;
+  letter-spacing: 1px;
   color: #4a90e2;
 }
 
 .answer-text {
- 
+  
   font-family: Source Sans Pro;
   font-size: 42px;
   line-height: 1.29;
   letter-spacing: 0.4px;
   text-align: left;
   color: #0b2748;
-  padding-left: 55px;
 }
 
 /* Wobble Horizontal */
